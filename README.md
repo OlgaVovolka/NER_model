@@ -22,8 +22,8 @@ To try out the model for inference:
 Ensure you have Python installed along with spaCy and other necessary libraries. Use `requirements.txt` to install dependencies.
 
 ### Running the Inference Script
-Use the `inference.py` script to run inference. This script loads the trained NER model and uses it to identify mountain names in a given text. You can modify the script to input your text or use the provided examples.
+Use the `inference_script.py` script to run inference. This script loads the trained NER model and uses it to identify mountain names in a given text. You can modify the script to input your text or use the provided examples.
 
 #### Usage
 ```bash
-python inference.py
+python inference_script.py
